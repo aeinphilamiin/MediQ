@@ -1,6 +1,6 @@
-# 🏥 MediQ - Hospital Appointment Booking System
+[# 🏥 MediQ - Hospital Appointment Booking System
 
-## 📌 Overview
+## Overview
 
 MediQ is a full-stack hospital appointment booking system that allows users to:
 
@@ -13,24 +13,24 @@ This project demonstrates full-stack development using Node.js, Express, MongoDB
 
 ---
 
-## 🚀 Features
+##  Features
 
-### 👨‍⚕️ Doctor Management
+###  Doctor Management
 - View list of doctors
 - Display available time slots
 - Dynamic slot selection
 
-### 📅 Appointment Booking
+###  Appointment Booking
 - Book appointments with patient details
 - Store bookings in MongoDB
 - Auto-generate booking ID
 
-### 📊 Booking Status Tracking
+###  Booking Status Tracking
 - View appointment status
 - Fetch booking details using booking ID
 - Status updates (Confirmed / Completed / Cancelled)
 
-### 🎨 Modern UI
+###  Modern UI
 - Blue-themed responsive design
 - Glassmorphism cards
 - Animated forms
@@ -39,7 +39,7 @@ This project demonstrates full-stack development using Node.js, Express, MongoDB
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 - HTML5
@@ -55,5 +55,7 @@ This project demonstrates full-stack development using Node.js, Express, MongoDB
 - MongoDB Atlas (for deployment)
 
 ---
-
+## Deployment Link
+https://medi-q-ten.vercel.app/
 ## 📁 Project Structure
+](https://github.com/lisa-antony)
